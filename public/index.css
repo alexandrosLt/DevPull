@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #fff !important;
+}
+
+.navbar a {
+    color: #000 !important;
+    text-decoration: none  !important;
+}
+
+.contacts-title {
+    padding-top:30px;
+    font-size: 2rem !important;
+    font-family: 'Roboto', sans-serif !important;
+    text-align: left;
+}
+.single-contact {
+    padding: 15px 10px;
+    border-top: none;
+    border-bottom: 1px solid rgba(0,0,0, .1);
+    transition: .5s all;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 500;
+}
+
+.single-contact:hover {
+    cursor: pointer;
+    background-color: rgba(0,0,0, .1);
+}

@@ -1,0 +1,11 @@
+.sender {
+     background-color: black;
+     text-align: right;
+}
+.receiver{
+    background-color: yellow;
+     text-align: left;
+}
+  SingleContact :hover {
+     background-color: black;
+}
